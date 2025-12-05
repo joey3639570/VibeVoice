@@ -1,0 +1,17 @@
+absl-py
+accelerate==1.6.0
+aiortc
+av
+diffusers
+fastapi
+gradio
+librosa
+llvmlite>=0.40.0
+ml-collections
+numba>=0.57.0
+numpy
+scipy
+torch
+tqdm
+transformers==4.51.3
+uvicorn[standard]
